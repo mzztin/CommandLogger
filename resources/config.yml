@@ -1,0 +1,6 @@
+# Enter your discord webhook URL
+# If you dont know how webhooks work then read this: https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+webhook-url: "ENTER WEBHOOK"
+
+# You can use {SENDER} and {COMMAND}
+message: "{SENDER} > /{COMMAND}"

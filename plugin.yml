@@ -1,0 +1,8 @@
+---
+name: CommandLogger
+version: 1.0.0
+author: Martin
+description: Send a webhook if a command is getting executed
+main: Martin\CommandLogger\CommandLogger
+api: [3.0.0]
+...
